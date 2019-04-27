@@ -1,0 +1,9 @@
+---
+title: "My GitKraken Notebook"
+output: html_notebook
+---
+
+## Just a Test
+
+This is a notebook that I'm creating to test GitKraken, a third-party tool 
+for working with git and integrating with GitHub.
